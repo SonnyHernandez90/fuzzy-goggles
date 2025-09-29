@@ -23,6 +23,9 @@ The visualization shows that the execution time increases roughly linearly with 
 Q2
 The main bottleneck is the overhead of the FIFO communication act file needed to be split into tiny 256-byte transfers each take up a lot of time
 .
+
+
+
 below is the excel graph
 [timesize.pdf](https://github.com/user-attachments/files/22588697/timesize.pdf)
 
